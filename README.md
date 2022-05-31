@@ -8,3 +8,7 @@ Hello
 
 Three octocats at 25% width:
 <p align="center"><img src="https://user-images.githubusercontent.com/898121/167664124-91c188a2-b10f-499e-bc0a-2ad7b93c3b1a.gif" width="25%"><img src="https://user-images.githubusercontent.com/898121/167664124-91c188a2-b10f-499e-bc0a-2ad7b93c3b1a.gif" width="25%"><img src="https://user-images.githubusercontent.com/898121/167664124-91c188a2-b10f-499e-bc0a-2ad7b93c3b1a.gif" width="25%"></p>
+
+
+One octocat at 100% width?
+<img src="https://user-images.githubusercontent.com/898121/167664124-91c188a2-b10f-499e-bc0a-2ad7b93c3b1a.gif" width="100%">
